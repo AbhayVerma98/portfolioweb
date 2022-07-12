@@ -29,13 +29,7 @@ function NavbarFun() {
         <Nav.Link as={Link} to="certificate/">Certificates</Nav.Link>
         
         
-        {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-          <NavDropdown.Item as={Link} to="education/">Education</NavDropdown.Item>
-          <NavDropdown.Item as={Link} to="portfolio/">Portfolio</NavDropdown.Item>
-          <NavDropdown.Item as={Link} to="por/">Projects</NavDropdown.Item>
-          <NavDropdown.Divider />
-          <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
-        </NavDropdown> */}
+        
       </Nav>
     </Navbar.Collapse>
     </Container>

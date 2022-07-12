@@ -4,9 +4,8 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {BrowserRouter as Router} from 'react-router-dom';
-//import { BrowserRouter as Router} from 'react-router-dom;
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+// "homepage": "https://AbhayVerma98.github.io/portfolioweb","private": true,
 
 ReactDOM.render(
   

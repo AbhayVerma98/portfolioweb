@@ -12,47 +12,13 @@ import Typography from '@mui/material/Typography';
 //import Button from '@mui/material/Button';
 
 
-
-
-
-
-
-// var sectionStyle = {
-//   width : "100%",
-//   height : "400px",
-//   backgroundImage : "url(" + {bimg} +")"
-// }
-
-
 const home = () => {
   return (
     <>
      
      <Container  >
       <Row>
-        {/* <Col>
-                <Card sx={{ minWidth: 275 }}>
-              <CardContent>
-                <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
-                  Word of the Day
-                </Typography>
-                <Typography variant="h5" component="div">
-                  jjj
-                </Typography>
-                <Typography sx={{ mb: 1.5 }} color="text.secondary">
-                  adjective
-                </Typography>
-                <Typography variant="body2">
-                  well meaning and kindly.
-                  <br />
-                  {'"a benevolent smile"'}
-                </Typography>
-              </CardContent>
-              <CardActions>
-                <Button size="small">Learn More</Button>
-              </CardActions>
-            </Card>
-        </Col> */}
+
 
 
 
@@ -88,9 +54,7 @@ const home = () => {
                   </Col>
                   
                 </Row>
-                {/* <Typography variant="h5" component="div">
-                  <img src={bimg} height="600px" style={{height:"100%",width:"100%"}}/>
-                </Typography> */}
+               
               </CardContent>
               
             </Card>
@@ -101,132 +65,6 @@ const home = () => {
       </Row>
     </Container>
 
-    
-
-      {/* <div >
-        <center >
-               <div style={{width:"65%"}}>
-               <Card sx={{ minWidth: 275,  marginRight:""}}>
-              <CardContent>
-                <Typography variant="body2" style={{textAlign:"left"}}>
-                <span>
-                  <span><text>C++</text><ProgressBar animated now={84} style={{width:"40rem"}} /></span>
-                </span>
-                </Typography>
-              </CardContent>            
-            </Card>
-            <br/>
-
-            <Card sx={{ minWidth: 275,  marginRight:""}}>
-              <CardContent>
-                <Typography variant="body2" style={{textAlign:"left"}}>
-                <span>
-                  <span><text>Python</text><ProgressBar animated now={63} style={{width:"40rem"}} /></span>
-                </span>
-                </Typography>
-              </CardContent>            
-            </Card>
-            <br/>
-
-
-
-            <Card sx={{ minWidth: 275,  marginRight:""}}>
-              <CardContent>
-                <Typography variant="body2" style={{textAlign:"left"}}>
-                <span>
-                  <span><text>Django</text><ProgressBar animated now={70} style={{width:"40rem"}} /></span>
-                </span>
-                </Typography>
-              </CardContent>            
-            </Card>
-            <br/>
-
-            <Card sx={{ minWidth: 275,  marginRight:""}}>
-              <CardContent>
-                <Typography variant="body2" style={{textAlign:"left"}}>
-                <span>
-                  <span><text>JavaScript</text><ProgressBar animated now={55} style={{width:"40rem"}} /></span>
-                </span>
-                </Typography>
-              </CardContent>            
-            </Card>
-            <br/>
-
-
-
-            <Card sx={{ minWidth: 275,  marginRight:""}}>
-              <CardContent>
-                <Typography variant="body2" style={{textAlign:"left"}}>
-                <span>
-                  <span><text>React Js</text><ProgressBar animated now={65} style={{width:"40rem"}} /></span>
-                </span>
-                </Typography>
-              </CardContent>            
-            </Card>
-            <br/>
-
-            <Card sx={{ minWidth: 275,  marginRight:""}}>
-              <CardContent>
-                <Typography variant="body2" style={{textAlign:"left"}}>
-                <span>
-                  <span><text>HTML</text><ProgressBar animated now={90} style={{width:"40rem"}} /></span>
-                </span>
-                </Typography>
-              </CardContent>            
-            </Card>
-            <br/>
-
-
-
-            <Card sx={{ minWidth: 275,  marginRight:""}}>
-              <CardContent>
-                <Typography variant="body2" style={{textAlign:"left"}}>
-                <span>
-                  <span><text>CSS</text><ProgressBar animated now={75} style={{width:"40rem"}} /></span>
-                </span>
-                </Typography>
-              </CardContent>            
-            </Card>
-            <br/>
-
-            <Card sx={{ minWidth: 275,  marginRight:""}}>
-              <CardContent>
-                <Typography variant="body2" style={{textAlign:"left"}}>
-                <span>
-                  <span><text>BootsTrap</text><ProgressBar animated now={67} style={{width:"40rem"}} /></span>
-                </span>
-                </Typography>
-              </CardContent>            
-            </Card>
-            <br/>
-
-
-
-            <Card sx={{ minWidth: 275,  marginRight:""}}>
-              <CardContent>
-                <Typography variant="body2" style={{textAlign:"left"}}>
-                <span>
-                  <span><text>MySQL</text><ProgressBar animated now={80} style={{width:"40rem"}} /></span>
-                </span>
-                </Typography>
-              </CardContent>            
-            </Card>
-            <br/>
-
-            <Card sx={{ minWidth: 275,  marginRight:"18%"}}>
-              <CardContent>
-                <Typography variant="body2" style={{textAlign:"left"}}>
-                <span>
-                  <span><text>c++</text><ProgressBar animated now={45} style={{width:"40rem"}} /></span>
-                </span>
-                </Typography>
-              </CardContent>            
-            </Card>
-            <br/>
-               </div>
-        </center>
-      
-      </div> */}
     </>
   )
 }

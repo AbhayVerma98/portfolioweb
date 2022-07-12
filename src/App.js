@@ -7,7 +7,6 @@ import About from "./pages/aboutus";
 import Contact from "./pages/contact";
 //import NavbarFun from "./pages/navbar";
 import Education from "./pages/education";
-//import Portfolio from "./pages/projects";
 import Pro from "./pages/pro";
 import Certificate from "./pages/certificate";
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -28,18 +27,12 @@ function App() {
         <Route path="/education" element={<Education/>} />
         <Route path="/certificate" element={<Certificate/>} />
         <Route path="/projects" element={<Pro/>} />
-        {/* <Route path="/portfolio" element={<Portfolio/>} /> */}
+
       </Routes>
       <Footer/>
     </div>
 
-    {/* <Routes>
-    <Route path="/" element={<Home/>} />
-    <Route path="/about" element={<About/>} />
-    <Route path="/contact" element={<Contact/>} />
-    <Route path="/education" element={<Education/>} />
-    <Route path="/portfolio" element={<Portfolio/>} />
-    </Routes> */}
+    
     </>
   )
 }
