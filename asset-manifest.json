@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AbhayVerma98/portfolioweb/static/css/main.227c972f.css",
+    "main.js": "/AbhayVerma98/portfolioweb/static/js/main.3591050e.js",
+    "static/js/787.2af39c6f.chunk.js": "/AbhayVerma98/portfolioweb/static/js/787.2af39c6f.chunk.js",
+    "static/media/2.jpg": "/AbhayVerma98/portfolioweb/static/media/2.b46bced13c107ade50c2.jpg",
+    "static/media/1.jpg": "/AbhayVerma98/portfolioweb/static/media/1.b72c8cd4773a40813adf.jpg",
+    "static/media/AA.jpg": "/AbhayVerma98/portfolioweb/static/media/AA.7e2ad128fdaa78416b31.jpg",
+    "static/media/4.jpg": "/AbhayVerma98/portfolioweb/static/media/4.fbac604691acb1d2740a.jpg",
+    "static/media/3.jpg": "/AbhayVerma98/portfolioweb/static/media/3.6af15a19d40fb5795e5d.jpg",
+    "static/media/e1.jpeg": "/AbhayVerma98/portfolioweb/static/media/e1.ad1a424d23312f0a9896.jpeg",
+    "static/media/javascript.jpg": "/AbhayVerma98/portfolioweb/static/media/javascript.f08ee6c6c0a70af46b52.jpg",
+    "static/media/5.jpg": "/AbhayVerma98/portfolioweb/static/media/5.c294bd2bc370bbc93b7b.jpg",
+    "static/media/c++.jpg": "/AbhayVerma98/portfolioweb/static/media/c++.4a176e862a1cf670d54e.jpg",
+    "index.html": "/AbhayVerma98/portfolioweb/index.html",
+    "main.227c972f.css.map": "/AbhayVerma98/portfolioweb/static/css/main.227c972f.css.map",
+    "main.3591050e.js.map": "/AbhayVerma98/portfolioweb/static/js/main.3591050e.js.map",
+    "787.2af39c6f.chunk.js.map": "/AbhayVerma98/portfolioweb/static/js/787.2af39c6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.227c972f.css",
+    "static/js/main.3591050e.js"
+  ]
+}
